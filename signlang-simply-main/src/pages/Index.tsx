@@ -85,7 +85,7 @@ const Index = () => {
                   </motion.button>
                 </Link>
                 <a
-                  href="http://localhost:3001/"
+                  href="https://jarvis-lvt4.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -320,7 +320,7 @@ const Index = () => {
             {[
               { number: "1,000+", label: "Signs & Phrases" },
               { number: "24/7", label: "Learning Access" },
-              { number: "2", label: "Learning Methods" },
+              { number: "3", label: "Learning Methods" },
             ].map((stat, index) => (
               <motion.div
                 key={index}

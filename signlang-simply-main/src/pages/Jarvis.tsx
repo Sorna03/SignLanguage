@@ -2,7 +2,7 @@ const Jarvis = () => {
   return (
     <div className="min-h-screen p-4">
       <iframe
-        src="http://localhost:3001/"
+        src="https://jarvis-lvt4.vercel.app/"
         title="Jarvis Assistant"
         width="100%"
         height="1000px"
